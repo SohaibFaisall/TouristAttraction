@@ -6,18 +6,18 @@
         {
           "id": 1,
           "name": "Badshahi Mosque",
-          "description": "One of the largest and most iconic mosques in Pakistan, built in 1673 by Mughal Emperor Aurangzeb.",
-          "location": "Lahore Fort Road, Lahore",
-          "category": "Most Famous",
-          "image": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-TXJEdxs5Hh4"
+          "description": "A Mughal-era mosque built in 1673, famous for its grandeur.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Badshahi_Mosque_front_picture.jpg",
+          "location": "Lahore, Pakistan",
+          "category": "Historical"
         },
         {
           "id": 2,
-          "name": "Minar-e-Pakistan",
-          "description": "A national monument symbolizing Pakistan’s independence, located in Iqbal Park, Lahore.",
-          "location": "Iqbal Park, Lahore",
-          "category": "Most Trending",
-          "image": "https://images.unsplash.com/photo-1631893003858-1f9314f4d0f4"
+          "name": "Shalimar Gardens",
+          "description": "A Mughal garden complex built by Emperor Shah Jahan in 1641.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Shalimar_Gardens_Lahore.JPG",
+          "location": "Lahore, Pakistan",
+          "category": "Cultural"
         }
       ]
     },
@@ -27,18 +27,10 @@
         {
           "id": 3,
           "name": "Faisal Mosque",
-          "description": "The largest mosque in Pakistan, known for its contemporary design and scenic location at the foothills of Margalla Hills.",
-          "location": "Shah Faisal Avenue, Islamabad",
-          "category": "Most Famous",
-          "image": "https://images.unsplash.com/photo-1603645303333-02e0e2c04313"
-        },
-        {
-          "id": 4,
-          "name": "Daman-e-Koh",
-          "description": "A popular viewpoint offering panoramic views of Islamabad and the surrounding hills.",
-          "location": "Margalla Hills, Islamabad",
-          "category": "Rising Place",
-          "image": "https://images.unsplash.com/photo-1611571648411-8e2c780f7f14"
+          "description": "Pakistan’s largest mosque with unique modern architecture.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Faisal_Mosque%2C_Islamabad.jpg",
+          "location": "Islamabad, Pakistan",
+          "category": "Religious"
         }
       ]
     }
