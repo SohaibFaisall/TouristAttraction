@@ -7,7 +7,8 @@
           "id": 1,
           "name": "Badshahi Mosque",
           "description": "A Mughal-era mosque built in 1673, famous for its grandeur.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Badshahi_Mosque_front_picture.jpg",
+          "image": "Photo by <a href="https://unsplash.com/@drxyz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dr Muhammad Amer</a> on <a href="https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-TXJEdxs5Hh4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      ",
           "location": "Lahore, Pakistan",
           "category": "Historical"
         },
