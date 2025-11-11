@@ -1,0 +1,46 @@
+{
+  "cities": [
+    {
+      "name": "Lahore",
+      "attractions": [
+        {
+          "id": 1,
+          "name": "Badshahi Mosque",
+          "description": "One of the largest and most iconic mosques in Pakistan, built in 1673 by Mughal Emperor Aurangzeb.",
+          "location": "Lahore Fort Road, Lahore",
+          "category": "Most Famous",
+          "image": "https://images.unsplash.com/photo-1578926281272-66e27e5e8a15"
+        },
+        {
+          "id": 2,
+          "name": "Minar-e-Pakistan",
+          "description": "A national monument symbolizing Pakistan’s independence, located in Iqbal Park, Lahore.",
+          "location": "Iqbal Park, Lahore",
+          "category": "Most Trending",
+          "image": "https://images.unsplash.com/photo-1631893003858-1f9314f4d0f4"
+        }
+      ]
+    },
+    {
+      "name": "Islamabad",
+      "attractions": [
+        {
+          "id": 3,
+          "name": "Faisal Mosque",
+          "description": "The largest mosque in Pakistan, known for its contemporary design and scenic location at the foothills of Margalla Hills.",
+          "location": "Shah Faisal Avenue, Islamabad",
+          "category": "Most Famous",
+          "image": "https://images.unsplash.com/photo-1603645303333-02e0e2c04313"
+        },
+        {
+          "id": 4,
+          "name": "Daman-e-Koh",
+          "description": "A popular viewpoint offering panoramic views of Islamabad and the surrounding hills.",
+          "location": "Margalla Hills, Islamabad",
+          "category": "Rising Place",
+          "image": "https://images.unsplash.com/photo-1611571648411-8e2c780f7f14"
+        }
+      ]
+    }
+  ]
+}
