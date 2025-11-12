@@ -26,10 +26,10 @@
       "attractions": [
         {
           "id": 3,
-          "name": "Faisal Mosque",
-          "description": "Pakistan’s largest mosque with unique modern architecture.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Faisal_Mosque%2C_Islamabad.jpg",
-          "location": "Islamabad, Pakistan",
+          "name": "Mahbat khan mosque",
+          "description": " white Mughal design mosque built in the 1600's with a large prayer hall & 2 minarets.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MKmosque.jpg/500px-MKmosque.jpg",
+          "location": "Peshawar, Pakistan",
           "category": "Religious"
         }
       ]
