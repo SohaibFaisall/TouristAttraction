@@ -7,7 +7,7 @@
           "id": 1,
           "name": "Badshahi Mosque",
           "description": "A Mughal-era mosque built in 1673, famous for its grandeur.",
-          "image": "https://en.wikipedia.org/wiki/File:Badshahi_Mosque_front_picture.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Badshahi_Mosque_front_picture.jpg/960px-Badshahi_Mosque_front_picture.jpg",
           "location": "Lahore, Pakistan",
           "category": "Historical"
         },
@@ -15,7 +15,7 @@
           "id": 2,
           "name": "Shalimar Gardens",
           "description": "A Mughal garden complex built by Emperor Shah Jahan in 1641.",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Shalimar_Gardens_Lahore.JPG",
+          "image": "https://cdn-blog.zameen.com/blog/wp-content/uploads/2020/07/Shalimar-Gardens-Lahore-Cover-27-07.jpg",
           "location": "Lahore, Pakistan",
           "category": "Cultural"
         }
